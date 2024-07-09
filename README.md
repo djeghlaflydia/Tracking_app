@@ -3,7 +3,7 @@
 ## Overview
 This project is a phone number tracking application built using Python. It utilizes Tkinter for the graphical user interface, TkinterWeb for rendering HTML maps, and PIL for image processing. Users can input a phone number, and the application will track and display the location of the phone number on a map.
 
-![Capture](https://github.com/djeghlaflydia/Tracking_app/assets/163843966/e4d123c7-2872-4cfa-baa1-01de1323e116)
+![Capture](https://github.com/djeghlaflydia/Tracking_app/assets/163843966/bb6f0a89-1388-46ae-a3bc-608b77094f9b)
 
 ## Features
 - **User-friendly Interface**: Built with Tkinter for an intuitive user experience.
